@@ -1,0 +1,103 @@
+/*
+ * SourceHanSerif-subset (Korean) by Seho(sayho87) github.com/sayho87/SourceHanSerif-subset
+ * CSS-Style Sheets by YiReun 02rainbowblog.tumblr.com
+ * SIL OFL 1.1
+ */
+ 
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 200;
+  src: local('Source Han Serif K ExtraLight'),
+       local('Noto Serif CJK kr ExtraLight'),
+  	   local('Source Han Serif KR ExtraLight'),  
+  	   local('Noto Serif KR ExtraLight');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-ExtraLight_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-ExtraLight_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-ExtraLight_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-ExtraLight_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-ExtraLight_subset.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 300;
+  src: local('Source Han Serif K Light'),
+       local('Noto Serif CJK kr Light'),
+  	   local('Source Han Serif KR Light'),  
+  	   local('Noto Serif KR Light');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Light_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Light_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Light_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Light_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Light_subset.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 400;
+  src: local('Source Han Serif K Regular'),
+       local('Noto Serif CJK kr Regular'),
+  	   local('Source Han Serif KR Regular'),  
+  	   local('Noto Serif KR Regular');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Regular_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Regular_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Regular_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Regular_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Regular_subset.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 500;
+  src: local('Source Han Serif K Medium'),
+       local('Noto Serif CJK kr Medium'),
+  	   local('Source Han Serif KR Medium'),  
+  	   local('Noto Serif KR Medium');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Medium_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Medium_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Medium_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Medium_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Medium_subset.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 600;
+  src: local('Source Han Serif K SemiBold'),
+       local('Noto Serif CJK kr SemiBold'),
+  	   local('Source Han Serif KR SemiBold'),  
+  	   local('Noto Serif KR SemiBold');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-SemiBold_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-SemiBold_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-SemiBold_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-SemiBold_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-SemiBold_subset.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 700;
+  src: local('Source Han Serif K Bold'),
+       local('Noto Serif CJK kr Bold'),
+  	   local('Source Han Serif KR Bold'),  
+  	   local('Noto Serif KR Bold');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Source Han Serif';
+  font-weight: 900;
+  src: local('Source Han Serif K Heavy'),
+       local('Noto Serif CJK kr Black'),
+  	   local('Source Han Serif KR Heavy'),  
+  	   local('Noto Serif KR Black');
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.eot);
+  src: url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.eot?#iefix) format('embedded-opentype'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.woff2) format('woff2'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.woff) format('woff'),
+       url(https://github.com/sayho87/SourceHanSerif-subset/raw/master/SourceHanSerifKR-Bold_subset.otf) format('opentype');
+}
